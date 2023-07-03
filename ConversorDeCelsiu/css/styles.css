@@ -1,0 +1,20 @@
+body{
+color: rgb(21, 21, 181);
+   text-align: center;
+   background-color: rgb(125, 125, 244);
+}
+.titulo{
+    padding-top: 25px;
+    font-size: 40px;
+    color: rgb(169, 29, 29);
+    padding-bottom: 30px;
+}
+button{
+    color: rgb(4, 4, 187);
+    background-color: rgb(138, 133, 161);
+    padding: 7px;
+
+
+    border-radius: 20px;
+}
+
